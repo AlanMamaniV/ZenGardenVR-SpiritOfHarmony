@@ -12,7 +12,6 @@
 # Visual Studio / Rider / VS Code cache
 .vs/
 .idea/
-.vscode/
 *.csproj
 *.unityproj
 *.sln
@@ -32,3 +31,7 @@
 .DS_Store
 Thumbs.db
 Desktop.ini
+
+*.zip
+config.bat
+node_modules
